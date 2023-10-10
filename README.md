@@ -42,3 +42,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirziauddin&show_icons=true&locale=en" alt="mirziauddin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirziauddin&" alt="mirziauddin" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sk%20Nafish&theme=iceberg&hide_border=true" alt="GitHub Streak" /></a>
